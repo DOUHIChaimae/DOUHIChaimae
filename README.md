@@ -12,18 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hey there! I'm DOUHI Chaimae<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<h3> About Me </h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=967b7f&duration=2000&pause=1000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+DOUHI+Chaimae;I'm+a+Software+engineering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+</br>
+</br>
+<h1>😄 About Me </h1>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="150">
+
 <p><em>Software engineering and distributed information systems student at <a href="https://www.enset-media.ac.ma/">ENSET Mohammedia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
 </em></p>
 
-- 🌱 &nbsp; Learning more about creating clean, efficient, and well-documented code.
+- 🌱 &nbsp; I'm learning more about creating clean, efficient, and well-documented code.
 - 😄 &nbsp; In my free time, I enjoy participating in programming challenges.
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h1> 🛠 &nbsp;Tech Stack</h1>
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -51,7 +54,7 @@ Here are some ideas to get you started:
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Figma](https://img.shields.io/badge/figma-333333?style=flat&logo=figma&logoColor=007ACC)
  
-<br/>
+
 
 <h1> :fire: My Stats :</h1>
 <div align="center">
