@@ -62,11 +62,6 @@ Here are some ideas to get you started:
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DOUHIChaimae&show_icons=true&count_private=true&hide_border=true&title_color=787b7f&icon_color=787b7f&text_color=c9d1d9&bg_color=0d1117" alt="DOUHI github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUHIChaimae&hide=python&layout=compact&hide_border=true&title_color=787b7f&text_color=787b7f&bg_color=0d1117" />
-</div>
-  <a>
-     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DOUHIChaimae&theme=github_dark&show_icons=true" />
-  </a>
-</div>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
