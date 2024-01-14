@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Spring](https://img.shields.io/badge/spring-333333?style==flat&logoColor=00599C&logo=spring)
+  ![Hibernate](https://img.shields.io/badge/hibernate-333333?style=flat&logo=hibernate&logoColor=59666C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -53,7 +54,22 @@ Here are some ideas to get you started:
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Figma](https://img.shields.io/badge/figma-333333?style=flat&logo=figma&logoColor=007ACC)
- 
+
+<h1> 🌐 Software Modeling and Engineering</h1>
+
+- 🎨 &nbsp; Design Patterns
+- 📐 &nbsp; UML
+
+<h1> 🚀 Development Methodology and Software Tools</h1>
+
+- ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum&logoColor=47A248) &nbsp; 
+- ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira-software&logoColor=0052CC) &nbsp; 
+
+<h1> 🛠 Software Industrialization</h1>
+
+- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) &nbsp; 
+- ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apache-maven&logoColor=C71A36) &nbsp; 
+
 
 
 <h1> :fire: My Stats :</h1>
