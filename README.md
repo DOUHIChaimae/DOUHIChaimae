@@ -70,8 +70,6 @@ Here are some ideas to get you started:
 - ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apache-maven&logoColor=C71A36) &nbsp; 
 
-
-
 <h1> :fire: My Stats :</h1>
 <div align="center">
   <br>
