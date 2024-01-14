@@ -44,9 +44,7 @@ Here are some ideas to get you started:
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
 - 🔧 &nbsp;
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -65,9 +63,10 @@ Here are some ideas to get you started:
 - ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum&logoColor=47A248) &nbsp; 
 - ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira-software&logoColor=0052CC) &nbsp; 
 
-<h1> 🛠 Software Industrialization</h1>
+<h1> ⚙️ Software Industrialization</h1>
 
-- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) &nbsp; 
+- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apache-maven&logoColor=C71A36) &nbsp; 
 
 
