@@ -72,11 +72,9 @@ Here are some ideas to get you started:
 
 # :fire: My Stats
 
-<div align="center">
-    <img style="width: 49%; height: 195px; filter: invert(1);" src="https://github-readme-stats.vercel.app/api?username=DOUHIChaimae&show_icons=true&count_private=true&hide_border=true&title_color=787b7f&icon_color=787b7f&text_color=c9d1d9&bg_color=0d1117" alt="DOUHI github stats" />
-    <img style="width: 41%; height: 195px; filter: invert(1);" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUHIChaimae&hide=python&layout=compact&hide_border=true&title_color=787b7f&text_color=787b7f&bg_color=0d1117" />
-</div>
-
+<div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DOUHIChaimae&show_icons=true&count_private=true&hide_border=true&title_color=787b7f&icon_color=787b7f&text_color=c9d1d9&bg_color=0d1117" alt="DOUHI github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUHIChaimae&hide=python&layout=compact&hide_border=true&title_color=787b7f&text_color=787b7f&bg_color=0d1117" />
 
     
   <picture>
