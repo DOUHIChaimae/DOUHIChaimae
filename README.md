@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 </br>
 </br>
 <h1>😄 About Me </h1>
-<img align='right' src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="160">
-
+<img align='right' src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="150">
 <p><em>Software engineering and distributed information systems student at <a href="https://www.enset-media.ac.ma/">ENSET Mohammedia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
 </em></p>
 
