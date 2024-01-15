@@ -75,8 +75,7 @@ Here are some ideas to get you started:
 <div align="center">  
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DOUHIChaimae&show_icons=true&count_private=true&hide_border=true&title_color=787b7f&icon_color=787b7f&text_color=c9d1d9&bg_color=0d1117" alt="DOUHI github stats" /> 
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUHIChaimae&hide=python&layout=compact&hide_border=true&title_color=787b7f&text_color=787b7f&bg_color=0d1117" />
-
-    
+   
   <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -94,11 +93,9 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/chaimae-douhi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DOUHI%20Chaimae%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:chaimaedouhi7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chaimaedouhi7@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
 
