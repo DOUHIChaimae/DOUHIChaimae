@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Spring](https://img.shields.io/badge/spring-333333?style==flat&logoColor=00599C&logo=spring)
+  ![Spring](https://img.shields.io/badge/spring-333333?style=flat&logoColor=4CAF50&logo=spring)
   ![Hibernate](https://img.shields.io/badge/hibernate-333333?style=flat&logo=hibernate&logoColor=59666C)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logoColor=FF0000&logo=oracle)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
 - 🔧 &nbsp;
