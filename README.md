@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=967b7f&duration=2000&pause=1000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+DOUHI+Chaimae;I'm+a+Software+engineering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A49B5&duration=2000&pause=1000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+DOUHI+Chaimae;I'm+a+Software+engineering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 </br>
 </br>
 <h1>😄 About Me </h1>
