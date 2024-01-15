@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 &nbsp; In my free time, I enjoy participating in programming challenges.
 
 
-<h1> 🛠 &nbsp;Tech Stack</h1>
+<h2> 🛠 &nbsp;Tech Stack</h2>
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -54,17 +54,17 @@ Here are some ideas to get you started:
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Figma](https://img.shields.io/badge/figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<h1> 🌐 Software Modeling and Engineering</h1>
+<h2> 🌐 Software Modeling and Engineering</h2>
 
 - 🎨 &nbsp; Design Patterns
 - 📐 &nbsp; UML
 
-<h1> 🚀 Development Methodology and Software Tools</h1>
+<h2> 🚀 Development Methodology and Software Tools</h2>
 
 - ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum&logoColor=47A248) &nbsp; 
 - ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira-software&logoColor=0052CC) &nbsp; 
 
-<h1> ⚙️ Software Industrialization</h1>
+<h2> ⚙️ Software Industrialization</h2>
 
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 - ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
